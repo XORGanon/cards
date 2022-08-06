@@ -1,6 +1,6 @@
 # XORG "cards" data repository
 
-This is a simple stash for our "cards" that is used as a database by the renderer located at https://mborn.eu/xorg/
+This is a simple stash for our "cards" that the renderer at https://mborn.eu/xorg/ uses as its database.
 
 ### To edit
 To edit, add or expand new or existing "cards," open the [cards](https://github.com/XORGanon/cards/edit/main/cards) file for editing, do what you desire, and commit your changes when you're done. While doing so, please mind these few but vital _syntax conventions_ to keep the renderer working:
