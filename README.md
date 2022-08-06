@@ -10,18 +10,16 @@ While doing so, please mind to keep these few but vital **syntax conventions** s
 
 * Prefix the title with `#` + `space`
 * Prefix any property entries with `+` + `space`
-* Divide property names and values with `:` + `space`
+* Divide property names and values with `space` + `:` + `space`
 * Add one empty line after the entry.
 
 ##### Like so
-    # <TITLE>
-    + <PROPERTY>: <PROPERTY_VALUE>
-    <BLANK_LINE>
-
-##### Example
     # Schismogenesis
-    + Description: The way in which neighboring entities individuate in a highlighting of their differences.
-    + Suite: Belonging
+    + Description : The way in which neighboring entities individuate in a highlighting of their differences.
+    + Suite : Belonging
+    
+    # Semioverse miner
+    + Lore : Some metaverse miners call their collectively constructed underworld "The megadungeon": a branching expanding labyrinth, underneath the facadic surface of "reality".
 
 
 
