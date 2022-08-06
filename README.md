@@ -6,7 +6,7 @@ The record is in the "collection" file.
 
 
 ### To edit
-To edit, add, expand, ... new or existing "cards," simply open the [cards](https://github.com/XORGanon/cards/blob/main/cards) file, do what you desire, and commit your changes when you're done.
+To edit, add, expand, ... new or existing "cards," simply open the [cards](https://github.com/XORGanon/cards/edit/main/cards) file, do what you desire, and commit your changes when you're done.
 
 
 #### Editing conventions
