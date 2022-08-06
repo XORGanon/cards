@@ -11,14 +11,14 @@ To edit, add or expand new or existing "cards," simply open the [cards](https://
 * Keep one empty line between each "card" and the next
 
 #### Like so
-    # Schismogenesis
-    + Description : The way in which neighboring entities individuate in a highlighting of their differences.
-    + Suite : Belonging
-    
-    # Semioverse miner
-    + Lore : Some metaverse miners call their collectively constructed underworld "The megadungeon": a branching [...]
-            
-    # Et cetera ...
+	# Schismogenesis
+	+ Description : The way in which neighboring entities individuate ...
+	+ Suite : Belonging
+
+	# Semioverse miner
+	* Lore : Some metaverse miners call their collectively constructed ...
+
+	# Life-cycle
 
 #### Note
 Syntax conventions will be updated as the renderer develops, but I'll take care of upgrading them along with the description above.
