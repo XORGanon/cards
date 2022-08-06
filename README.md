@@ -5,10 +5,10 @@ This is a simple stash for our "cards" records that the renderer at https://mbor
 ### Editing
 To edit, add or expand new or existing "cards," simply open the [cards](https://github.com/XORGanon/cards/edit/main/cards) file for editing, do what you desire, and commit your changes when you're done. While doing so, please mind these few but vital _syntax conventions_ to make sure the renderer keeps working:
 
-* Prefix titles with `#` + `space`
-* Prefix property entries with `*` + `space`
+* Prefix the title property with `#` + `space`
+* Prefix other property entries with `*` + `space`
 * Divide property names and values with `space` + `:` + `space`
-* Keep one empty line between each "card" and the next
+* Keep an empty line between each "card" and the next
 
 ### Adding images
 To add images, do two things:
@@ -17,14 +17,14 @@ To add images, do two things:
 * Add a property line to the card: `* Image : imagename.jpg`
 
 ### All in all, like so:
-	# Expansive Foaming
+	# Title : Expansive Foaming
 	* Description : Fill out a void you find in any space (material, conceptual, ...
 	* Image : level.png
 
-	# Semioverse miner
+	# Title : Semioverse miner
 	* Lore : Some metaverse miners call their collectively constructed ...
 
-	# Life-cycle
+	# Title : Life-cycle
 
 #### Note
 Syntax conventions will be updated as the renderer develops, but I'll take care of upgrading them along with the description above.
