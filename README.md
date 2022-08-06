@@ -6,7 +6,7 @@ This is a simple dump/stash/data repository for our "cards" that is used as a da
 
 ### To edit
 To edit, add, expand, ... new or existing "cards," simply open the [cards](https://github.com/XORGanon/cards/edit/main/cards) file, do what you desire, and commit your changes when you're done.
-While doing so, please mind to keep these few but vital **syntax conventions** so that the renderer will keep working:
+While doing so, please mind these few but vital **syntax conventions** to keep the renderer working:
 
 * Prefix the title with `#` + `space`
 * Prefix property entries with `+` + `space`
