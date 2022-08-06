@@ -18,7 +18,7 @@ To add images, do two things:
 
 ### All in all, like so:
 	# Expansive Foaming
-	* Description : Fill out a void you find in any space (material, conceptual, ...) by beginning from one point and expanding into it
+	* Description : Fill out a void you find in any space (material, conceptual, ...
 	* Image : level.png
 
 	# Semioverse miner
