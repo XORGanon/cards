@@ -16,7 +16,7 @@ To edit, add or expand new or existing "cards," open the [cards](https://github.
     + Suite : Belonging
     
     # Semioverse miner
-    + Lore : Some metaverse miners call their collectively constructed underworld "The megadungeon": a branching expanding labyrinth, underneath the facadic surface of "reality".
+    + Lore : Some metaverse miners call their collectively constructed underworld "The megadungeon": a branching [...]
             
     # Et cetera ...
 
