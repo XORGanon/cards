@@ -20,6 +20,6 @@ To edit, add or expand new or existing "cards," open the [cards](https://github.
             
     # Et cetera ...
 
-<p class="callout info">NB &ndash; The syntax conventions will be updated as the renderer develops, but I will take care of keeping things integral.</p>
+<p style="padding: 1em; background-color: blue; color: white;"><b>Note:</b> The syntax conventions will be updated as the renderer develops, but I will take care of keeping things integral.</p>
 
 
