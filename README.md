@@ -12,8 +12,8 @@ To edit, add or expand new or existing "cards," simply open the [cards](https://
 
 #### Like so
 	# Schismogenesis
-	+ Description : The way in which neighboring entities individuate ...
-	+ Suite : Belonging
+	* Description : The way in which neighboring entities individuate ...
+	* Suite : Belonging
 
 	# Semioverse miner
 	* Lore : Some metaverse miners call their collectively constructed ...
