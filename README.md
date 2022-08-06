@@ -2,7 +2,7 @@
 
 This is a simple stash for our "cards" records that the renderer at https://mborn.eu/xorg/ draws on as its database.
 
-### To edit
+### Editing
 To edit, add or expand new or existing "cards," simply open the [cards](https://github.com/XORGanon/cards/edit/main/cards) file for editing, do what you desire, and commit your changes when you're done. While doing so, please mind these few but vital _syntax conventions_ to make sure the renderer keeps working:
 
 * Prefix the title with `#` + `space`
@@ -10,10 +10,16 @@ To edit, add or expand new or existing "cards," simply open the [cards](https://
 * Divide property names and values with `space` + `:` + `space`
 * Keep one empty line between each "card" and the next
 
-#### Like so
-	# Schismogenesis
-	* Description : The way in which neighboring entities individuate ...
-	* Suite : Belonging
+### Adding images
+To add images, do two things:
+
+* Upload the image you want to connect to a card into the "img" folder, by simply dragging it onto there and then committing this change.
+* Add a property line to the card: `* Image : imagename.jpg`
+
+#### All in all, like so
+	# Expansive Foaming
+	* Description : Fill out a void you find in any space (material, conceptual, ...) by beginning from one point and expanding into it
+	* Image : level.png
 
 	# Semioverse miner
 	* Lore : Some metaverse miners call their collectively constructed ...
