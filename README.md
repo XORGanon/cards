@@ -8,7 +8,7 @@ To edit, add or expand new or existing "cards," open the [cards](https://github.
 * Prefix the title with `#` + `space`
 * Prefix property entries with `+` + `space`
 * Divide property names and values with `space` + `:` + `space`
-* Make one empty line between each "card" and the next
+* Keep one empty line between each "card" and the next
 
 #### Like so
     # Schismogenesis
@@ -17,6 +17,9 @@ To edit, add or expand new or existing "cards," open the [cards](https://github.
     
     # Semioverse miner
     + Lore : Some metaverse miners call their collectively constructed underworld "The megadungeon": a branching expanding labyrinth, underneath the facadic surface of "reality".
+            
+    # Et cetera ...
+
 
 
 
