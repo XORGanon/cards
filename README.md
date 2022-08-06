@@ -21,6 +21,6 @@ To edit, add or expand new or existing "cards," simply open the [cards](https://
     # Et cetera ...
 
 #### Note
-The syntax conventions will be updated as the renderer develops, but I'll take care of that.
+Syntax conventions will be updated as the renderer develops, but I'll take care of upgrading them along with the description above.
 
 
