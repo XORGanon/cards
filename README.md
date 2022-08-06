@@ -1,4 +1,4 @@
-# XORG "cards" data repository
+# XORG "cards" data repo
 
 This is a simple stash for our "cards" records that the renderer at https://mborn.eu/xorg/ uses as its database.
 
