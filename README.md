@@ -18,6 +18,7 @@ When editing, adding, expanding, ..., please keep to these few but vital convent
     # Schismogenesis
     + Description: The way in which neighboring entities individuate in a highlighting of their differences.
     + Suite: Belonging
+    
 
 ### To view
 Cards can be viewed through a randomized renderer located at https://mborn.eu/xorg/
