@@ -13,7 +13,7 @@ To edit, add or expand new or existing "cards," simply open the [cards](https://
 ### Adding images
 To add images, do two things:
 
-* Upload the image you want to connect to a card into the "img" folder, by simply dragging it onto there and then committing this change.
+* Upload the image you want to connect to a card into the [img](https://github.com/XORGanon/cards/tree/main/img) folder, by simply dragging it onto there and then committing this change.
 * Add a property line to the card: `* Image : imagename.jpg`
 
 ### All in all, like so:
