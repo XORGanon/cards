@@ -9,9 +9,9 @@ To edit, add, expand, ... new or existing "cards," simply open the [cards](https
 While doing so, please mind to keep these few but vital **syntax conventions** so that the renderer will keep working:
 
 * Prefix the title with `#` + `space`
-* Prefix any property entries with `+` + `space`
+* Prefix property entries with `+` + `space`
 * Divide property names and values with `space` + `:` + `space`
-* Add one empty line after the entry.
+* Make one empty line between each "card" and the next
 
 ##### Like so
     # Schismogenesis
