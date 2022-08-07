@@ -11,10 +11,11 @@ To edit, add or expand new or existing "cards," simply [open the cards file for 
 * Keep an empty line between each "card" and the next
 
 ### Adding images
-To add images, do two things:
+To add images, do three things:
 
-* Upload the image you want to connect to a card into the [img](https://github.com/XORGanon/cards/tree/main/img) folder, by simply dragging it onto there and then committing this change.
-* Add a property line to the card: `* Image : imagename.jpg`
+* On your computer still, rename the image file you want to connect to a card with a clear, simple name. (You cannot rename files once they've been uploaded.)
+* Upload the image to the [img](https://github.com/XORGanon/cards/tree/main/img) folder by simply dragging it onto there and then committing this change.
+* Add an image property line to the card that looks like this: `* Image : imagename.jpg`
 
 ### All in all, like so:
 	# Title : Expansive Foaming
