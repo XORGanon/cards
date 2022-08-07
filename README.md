@@ -17,10 +17,16 @@ To add images, do three things:
 * Upload the image to the [img](https://github.com/XORGanon/cards/tree/main/img) folder by simply dragging it onto there and then committing this change.
 * Add an image property line to the card that looks like this: `* Image : imagename.jpg`
 
+### Structured text/lists
+To add line breaks, e.g. so to make lists in a description, put a `|` where you want the new line to begin.
+
 ### All in all, like so:
 	# Title : Expansive Foaming
 	* Description : Fill out a void you find in any space (material, conceptual, ...
 	* Image : level.png
+	
+	# Title : Sample card
+	* Description : To play this card: |1. Do step one |2. Do step two |3. Do step three
 
 	# Title : Semioverse miner
 	* Lore : Some metaverse miners call their collectively constructed ...
