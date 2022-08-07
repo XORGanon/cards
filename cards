@@ -19,7 +19,27 @@
 * Lore : Foam is seeking a shape, is threading a network inside a space. This gives the illusion of a complete shape, by way of the seemingly solid surface. But really is formed out of a constellated network and this is a much more common quality of human conception that what looks like a "solid" concept is really a not-visible network of meaning
 * Image : level.png
 
-# Title : Character
+# Title : Augury
+* Description : Desire-mapping. Navigating the uncertainty of the future. Gravity catapult. A thought full of hopes with possibilities yet to realize of actualize. Which actualize when you utter and somehow aim toward them.
+* Questions : Is the augury something I can do for myself, or is it something I ask for, or that I do for someone else?
+* Notes : [Drawing on card]
+
+# Title : A twisted surface
+* Description : To make a twisted surface ...: 1. Take two "domain-like" expressions (i.e. terms that can accommodate (host) other terms) that do not relate along a linear gradation. E.g.: oil + shadow, academy + rinsed, peaks + machines 2. Use the space opened between them as a host platform t ofind, capture, invent, position, ... other/new entities
+
+# Title : Ovary
+* Notes : [Notes attached to card]
+
+# Title : Sonaring
+* Description : To sonar ...: 1. Choose a ping	 2. Ping (send it out)	 3. Wait for a distortion to appear
+* See also : Anomalies
+* Notes : [Notes attached to card]
+
+# Title : Saved states
+* Notes : [Notes attached to card]
+
+# Title : Double card
+* Description : A card that folds (=> has four sides -- two hidden, one front, one back)
 
 # Title : Schismogenesis
 * Description : The way in which neighboring entities individuate by re-emphasizing their differences.
@@ -27,6 +47,40 @@
 
 # Title : Semioverse miner
 * Lore : Some metaverse miners call their collectively constructed underworld "The megadungeon": a branching expanding labyrinth, underneath the facadic surface of "reality".
+
+# Title : Crossbreeder
+* Type : Being (that you become). Role.
+* Description : Let your senses roam, until something catches your attention. Process what you've caught. Inspect it; name it... Hold onto it, and catch another. Crossbreed your catches. Collect what you've bred. Use them as sources, cross them with new catches.
+* Questions : Metamorphosis between their forms? Birth of their mutant? Mix from their aspects?
+
+# Title : Hairdo structures
+* Image : hair.png
+
+# Title : Effort
+* Description : The currency of translation from network to territory. Enter space and time by introducing effort, loss of energy. 
+* Lore : To discover the space between the nodes we need to introduce some type of loss of energy, otherwise we will stay networky.
+
+# Title : Bus 1 (counting/numbering)
+* Picture : Bus
+* Suite : Finiteness/non-numberness	
+
+# Title : Bus 2 (counting/numbering)
+* Picture : Bus Bus
+* Suite : Finiteness/non-numberness	
+
+# Title : Anomaly ...
+* Retrieving operations : sonaring, mining, scanning, radaring, foraging, collecting, picking, prompting, ...
+* Suite : Anomalies Sensing (+ retrieving operations)
+
+# Title : <.../lore/reality> digger
+* Description : Slot maker. Can add a quantum modifier (2 states superposition)
+* Suite : Reality/lore
+
+# Title : <.../lore/reality> amender
+* Description : Slot filler. Can add a quantum modifier (Reality & lore superposition)
+* Suite : Reality/lore
+
+# Title : Character
 
 # Title : Life-cycle
 
@@ -58,11 +112,6 @@
 
 # Title : The semioverse
 
-# Title : Crossbreeder
-* Type : Being (that you become). Role.
-* Description : Let your senses roam, until something catches your attention. Process what you've caught. Inspect it; name it... Hold onto it, and catch another. Crossbreed your catches. Collect what you've bred. Use them as sources, cross them with new catches.
-* Questions : Metamorphosis between their forms? Birth of their mutant? Mix from their aspects?
-
 # Title : Difference
 
 # Title : XORG
@@ -72,9 +121,6 @@
 # Title : Setting (as parameter)
 
 # Title : Context-likeness (detail)
-
-# Title : Hairdo structures
-* Image : hair.png
 
 # Title : The maelstrom
 
@@ -198,18 +244,6 @@
 
 # Title : Scene
 
-# Title : Effort
-* Description : The currency of translation from network to territory. Enter space and time by introducing effort, loss of energy. 
-* Lore : To discover the space between the nodes we need to introduce some type of loss of energy, otherwise we will stay networky.
-
-# Title : Bus 1 (counting/numbering)
-* Picture : Bus
-* Suite : Finiteness/non-numberness	
-
-# Title : Bus 2 (counting/numbering)
-* Picture : Bus Bus
-* Suite : Finiteness/non-numberness	
-
 # Title : Prompting
 
 # Title : Foraging
@@ -222,18 +256,6 @@
 
 # Title : The bastard
 
-# Title : Anomaly ...
-* Retrieving operations : sonaring, mining, scanning, radaring, foraging, collecting, picking, prompting, ...
-* Suite : Anomalies Sensing (+ retrieving operations)
-
-# Title : <.../lore/reality> digger
-* Description : Slot maker. Can add a quantum modifier (2 states superposition)
-* Suite : Reality/lore
-
-# Title : <.../lore/reality> amender
-* Description : Slot filler. Can add a quantum modifier (Reality & lore superposition)
-* Suite : Reality/lore
-
 # Title : Tentacle
 
 # Title : Wrapper
@@ -243,25 +265,3 @@
 # Title : Pass
 
 # Title : Fictional bridge
-
-# Title : Augury
-* Description : Desire-mapping. Navigating the uncertainty of the future. Gravity catapult. A thought full of hopes with possibilities yet to realize of actualize. Which actualize when you utter and somehow aim toward them.
-* Questions : Is the augury something I can do for myself, or is it something I ask for, or that I do for someone else?
-* Notes : [Drawing on card]
-
-# Title : A twisted surface
-* Description : To make a twisted surface ...: 1. Take two "domain-like" expressions (i.e. terms that can accommodate (host) other terms) that do not relate along a linear gradation. E.g.: oil + shadow, academy + rinsed, peaks + machines 2. Use the space opened between them as a host platform t ofind, capture, invent, position, ... other/new entities
-
-# Title : Ovary
-* Notes : [Notes attached to card]
-
-# Title : Sonaring
-* Description : To sonar ...: 1. Choose a ping	 2. Ping (send it out)	 3. Wait for a distortion to appear
-* See also : Anomalies
-* Notes : [Notes attached to card]
-
-# Title : Saved states
-* Notes : [Notes attached to card]
-
-# Title : Double card
-* Description : A card that folds (=> has four sides -- two hidden, one front, one back)
