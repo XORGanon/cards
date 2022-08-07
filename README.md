@@ -3,7 +3,7 @@
 This is a simple stash for our "cards" records that the renderer at https://mborn.eu/xorg/ draws on as its database.
 
 ### Editing
-To edit, add or expand new or existing "cards," simply open the [cards](https://github.com/XORGanon/cards/edit/main/cards) file for editing, do what you desire, and commit your changes when you're done. While doing so, please mind these few but vital _syntax conventions_ to make sure the renderer keeps working:
+To edit, add or expand new or existing "cards," simply open the cards file for [editing](https://github.com/XORGanon/cards/edit/main/cards), do what you desire, and commit your changes when you're done. While doing so, please mind these few but vital _syntax conventions_ to make sure the renderer keeps working:
 
 * Prefix the title property with `#` + `space`
 * Prefix other property entries with `*` + `space`
