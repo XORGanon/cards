@@ -12,14 +12,13 @@ To edit, add or expand new or existing "cards," simply [open the cards file for 
 <br/>
 
 ### Syntax conventions
-When editing the cards, mind a few but vital _syntax conventions_ to make sure the renderer keeps working:
+When editing the cards, please mind these few but vital _syntax conventions_ to make sure the renderer keeps working. These will be updated as the renderer develops, but I'll take care of upgrading them along the way.
 
 * Prefix the title property with `#` + `space`
 * Prefix other property entries with `*` + `space`
 * Divide property names and values with `space` + `:` + `space`
 * Keep an empty line between each "card" and the next
 
-(These conventions will be updated as the renderer develops, but I'll take care of upgrading them along with the description above.)
 <br/>
 <br/>
 
