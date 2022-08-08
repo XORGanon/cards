@@ -63,7 +63,7 @@ To bench some "cards" without having to delete them, I built in a cutoff mark, a
 <br/>
 
 ## Example
-```md
+```html
 # Title : Expansive Foaming
 * Description : Fill out a void you find in any space (material, conceptual, ...
 * Image : level.png
@@ -76,7 +76,7 @@ To bench some "cards" without having to delete them, I built in a cutoff mark, a
 
 -----
 
-# Title : Life-cycle // This card will not be rendered because it's behind the cutoff mark
+# Title : Life-cycle <!-- This card will not be rendered because it's behind the cutoff mark -->
 ```
 <br/>
 <br/>
