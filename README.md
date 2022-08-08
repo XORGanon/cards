@@ -9,6 +9,7 @@ This is a simple stash for our "cards" records that the renderer at https://mbor
 ## Editing
 To edit, add or expand new or existing "cards," simply [open the cards file for editing](https://github.com/XORGanon/cards/edit/main/cards) and do what you desire. After you're done, commit your changes by using the button at the bottom of the page.
 <br />
+<br/>
 
 ### Syntax conventions
 When editing the cards, mind a few but vital _syntax conventions_ to make sure the renderer keeps working:
