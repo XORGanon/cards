@@ -36,13 +36,16 @@ To add images, do three things:
 ### WIP (work in progress)
 To have a place for storing thoughts etc. that should not be rendered, you can store them in a WIP property: `* WIP : loose thoughts here`
 <br/>
+<br/>
 
 ### Line breaks
 To add line breaks, e.g. to make a list in a description, type a vertical bar `|` where you want the new line to begin.
 <br/>
+<br/>
 
 ### Cutoff
 To bench some "cards" without having to delete them, I built in a cutoff mark, all "cards" following which will not be considered by the renderer. The mark is five hyphens: `-----`
+<br/>
 <br/>
 
 ### All in all, like so:
