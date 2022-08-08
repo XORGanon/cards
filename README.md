@@ -24,7 +24,7 @@ To add line breaks, e.g. to make a list in a description, type a vertical bar `|
 To bench some "cards" without having to delete them, I built in a cutoff mark, all "cards" following which will not be considered by the renderer. The mark is five hyphens: `-----`
 
 ### All in all, like so:
-```javascript
+```markd
 # Title : Expansive Foaming
 * Description : Fill out a void you find in any space (material, conceptual, ...
 * Image : level.png
