@@ -6,7 +6,7 @@ This is a simple stash for our "cards" records that the renderer at https://mbor
 <br/>
 <br/>
 
-## I. File structure
+## File structure
 
 ### Cutoff
 To bench some "cards" without having to delete them, I built in a cutoff mark, all "cards" following which will not be considered by the renderer. The mark is five hyphens: `-----`
@@ -15,7 +15,7 @@ To bench some "cards" without having to delete them, I built in a cutoff mark, a
 <br/>
 <br/>
 
-## II. Editing
+## Editing
 ### Title and properties
 To edit, add or expand new or existing "cards," simply [open the cards file for editing](https://github.com/XORGanon/cards/edit/main/cards), do what you desire, and commit your changes when you're done. While doing so, please mind these few but vital _syntax conventions_ to make sure the renderer keeps working:
 
@@ -48,7 +48,7 @@ To have a place for storing thoughts etc. that won't be rendered out, you can st
 <br/>
 <br/>
 
-## III. Example
+## Example
 ```md
 # Title : Expansive Foaming
 * Description : Fill out a void you find in any space (material, conceptual, ...
