@@ -17,8 +17,7 @@ When editing the cards, please mind these few but vital _syntax conventions_ to 
 * Prefix the title property with `#` + `space`
 * Prefix other property entries with `*` + `space`
 * Divide property names and values with `space` + `:` + `space`
-* Keep an empty line between each "card" and the next
-<br/>
+* Just for human readability, keep an empty line between each "card" and the next
 <br/>
 
 ### Current properties
