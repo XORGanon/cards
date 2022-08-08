@@ -7,12 +7,7 @@ This is a simple stash for our "cards" records that the renderer at https://mbor
 <br/>
 
 ## Editing
-To edit, add or expand new or existing "cards," simply [open the cards file for editing](https://github.com/XORGanon/cards/edit/main/cards) and do what you desire. After you're done, commit your changes by using the button at the bottom of the page.
-<br/>
-<br/>
-
-### Syntax conventions
-When editing the cards, please mind these few but vital _syntax conventions_ to make sure the renderer keeps working. These will be updated as the renderer develops, but I'll take care of upgrading them along the way.
+To edit, add or expand new or existing "cards," simply [open the cards file for editing](https://github.com/XORGanon/cards/edit/main/cards), do what you desire, and commit your changes when you're done. While doing so, please mind these few but vital _syntax conventions_ to make sure the renderer keeps working. These will be updated as the renderer develops, but I'll take care of upgrading them along the way.
 
 * Prefix the title property with `#` + `space`
 * Prefix other property entries with `*` + `space`
