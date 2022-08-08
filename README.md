@@ -1,6 +1,7 @@
 # XORG "cards" repo
 This is a simple stash for our "cards" records that the renderer at https://mborn.eu/xorg/ draws on as its database.
 <br/>
+<br/>
 
 ### Editing and syntax conventions
 To edit, add or expand new or existing "cards," simply [open the cards file for editing](https://github.com/XORGanon/cards/edit/main/cards), do what you desire, and commit your changes when you're done. While doing so, please mind these few but vital _syntax conventions_ to make sure the renderer keeps working. These will be updated as the renderer develops, but I'll take care of upgrading them along the way.
@@ -23,7 +24,6 @@ The rendered currently understands the following properties. Since their names a
 * Notes
 * WIP
 ```
-<br/>
 
 ### Images
 To add images, do three things:
@@ -31,7 +31,6 @@ To add images, do three things:
 * On your computer still, rename the image file you want to connect to a card. (You cannot rename files once they're uploaded.)
 * Upload the image to the [img](https://github.com/XORGanon/cards/tree/main/img) folder by simply dragging it onto there and then committing this change.
 * Add an image property line to the card that looks like this: `* Image : imagename.jpg`
-<br/>
 
 ### WIP (work in progress)
 To have a place for storing thoughts etc. that should not be rendered, you can store them in a WIP property: `* WIP : loose thoughts here`
