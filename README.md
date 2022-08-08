@@ -15,8 +15,7 @@ To edit, add or expand new or existing "cards," simply [open the cards file for 
 * Divide property names and values with `space` + `:` + `space`
 * Keep an empty line between each "card" and the next
 
-### Currently computed properties
-So far, the following properties are accounted for in the renderer:
+So far, the below properties are accounted for in the renderer. They should be written exactly like this, since the property name will be used to attribute styling:
 * Title
 * Description
 * Lore
