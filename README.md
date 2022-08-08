@@ -36,7 +36,7 @@ To bench some "cards" without having to delete them, I built in a cutoff mark, a
 	
 	-----
 
-	# Title : Life-cycle // (This card will not be rendered because it's behind the cutoff mark)
+	# Title : Life-cycle // This card will not be rendered because it's behind the cutoff mark
 
 #### Note
 Syntax conventions will be updated as the renderer develops, but I'll take care of upgrading them along with the description above.
