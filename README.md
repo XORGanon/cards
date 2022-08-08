@@ -10,7 +10,6 @@ To edit, add or expand new or existing "cards," simply [open the cards file for 
 * Prefix other property entries with `*` + `space`
 * Divide property names and values with `space` + `:` + `space`
 * Just for human readability, keep an empty line between each "card" and the next
-<br/>
 
 ### Current known properties
 The rendered currently understands the following properties. Since their names are also triggers for their styling, print them exactly like this when you want to use them. We can at all times add, remove, rename or otherwise mess with these, though. 
@@ -31,6 +30,7 @@ To add images, do three things:
 * On your computer still, rename the image file you want to connect to a card. (You cannot rename files once they're uploaded.)
 * Upload the image to the [img](https://github.com/XORGanon/cards/tree/main/img) folder by simply dragging it onto there and then committing this change.
 * Add an image property line to the card that looks like this: `* Image : imagename.jpg`
+<br/>
 
 ### WIP (work in progress)
 To have a place for storing thoughts etc. that should not be rendered, you can store them in a WIP property: `* WIP : loose thoughts here`
