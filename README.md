@@ -19,7 +19,6 @@ So far, the below properties are accounted for in the renderer. They should be w
 * Core properties: `# Title`&ensp;`* Type`&ensp;`* Description`&ensp;`* Lore`&ensp;`* Suite`&ensp;`* Image`
 * Marginal properties: `* Notes`&ensp;`* WIP`
 <br/>
-<br/>
 
 ### Images
 To add images, do three things:
@@ -28,11 +27,9 @@ To add images, do three things:
 * Upload the image to the [img](https://github.com/XORGanon/cards/tree/main/img) folder by simply dragging it onto there and then committing this change.
 * Add an image property line to the card that looks like this: `* Image : imagename.jpg`
 <br/>
-<br/>
 
 ### Line breaks
 To add line breaks, e.g. to make a list in a description, type a vertical bar `|` where you want the new line to begin.
-<br/>
 <br/>
 
 ### Work in progress
