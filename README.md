@@ -27,6 +27,10 @@ When editing the cards, mind a few but vital _syntax conventions_ to make sure t
 * Divide property names and values with `space` + `:` + `space`
 * Keep an empty line between each "card" and the next
 
+(These conventions will be updated as the renderer develops, but I'll take care of upgrading them along with the description above.)
+<br/>
+<br/>
+
 ### Title and properties
 The rendered currently knows the following properties. Since their names are triggers for their styling, they should be written as printed here:
 * Core properties: `# Title`&ensp;`* Type`&ensp;`* Description`&ensp;`* Lore`&ensp;`* Suite`&ensp;`* Image`
@@ -74,13 +78,6 @@ To have a place for storing thoughts etc. that won't be rendered out, you can st
 <br/>
 <br/>
 
----
-<br/>
-<br/>
-<br/>
-<br/>
 
-#### Note
-Syntax conventions will be updated as the renderer develops, but I'll take care of upgrading them along with the description above.
 
 
