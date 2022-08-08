@@ -20,6 +20,9 @@ To add images, do three things:
 ### Line breaks
 To add line breaks, e.g. to make a list in a description, type a vertical bar `|` where you want the new line to begin.
 
+### Cutoff
+To bench some "cards" without having to delete them, I built in a cutoff mark, all "cards" following which will not be considered by the renderer. The mark is five hyphens: `-----`
+
 ### All in all, like so:
 	# Title : Expansive Foaming
 	* Description : Fill out a void you find in any space (material, conceptual, ...
@@ -30,8 +33,10 @@ To add line breaks, e.g. to make a list in a description, type a vertical bar `|
 
 	# Title : Semioverse miner
 	* Lore : Some metaverse miners call their collectively constructed ...
+	
+	-----
 
-	# Title : Life-cycle
+	# Title : Life-cycle // (This card will not be rendered because it's behind the cutoff mark)
 
 #### Note
 Syntax conventions will be updated as the renderer develops, but I'll take care of upgrading them along with the description above.
