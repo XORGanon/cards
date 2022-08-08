@@ -22,7 +22,8 @@ When editing the cards, please mind these few but vital _syntax conventions_ to 
 
 ### Current properties
 The rendered currently understands the following properties. Since their names are also triggers for their styling, print them exactly like this when you want to use them. We can at all times add, remove, rename or otherwise mess with these, though. 
-* Title
+```
+# Title
 * Type
 * Description
 * Lore
@@ -30,6 +31,7 @@ The rendered currently understands the following properties. Since their names a
 * Image
 * Notes
 * WIP
+```
 <br/>
 
 ### Images
