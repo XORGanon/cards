@@ -33,8 +33,16 @@ When editing the cards, mind a few but vital _syntax conventions_ to make sure t
 
 ### Title and properties
 The rendered currently knows the following properties. Since their names are triggers for their styling, they should be written as printed here:
-* Core properties: `# Title`&ensp;`* Type`&ensp;`* Description`&ensp;`* Lore`&ensp;`* Suite`&ensp;`* Image`
-* Marginal properties: `* Notes`&ensp;`* WIP`
+* Core properties
+  * `# Title`
+  * `* Type`
+  * `* Description`
+  * `* Lore`
+  * `* Suite`
+  * `* Image`
+* Marginal properties
+  * `* Notes`
+  * `* WIP`
 <br/>
 
 ### Images
