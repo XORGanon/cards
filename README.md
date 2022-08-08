@@ -44,6 +44,7 @@ To add images, do three things:
 ### Line breaks
 To add line breaks, e.g. to make a list in a description, type a vertical bar `|` where you want the new line to begin.
 <br/>
+<br/>
 
 ### Work in progress
 To have a place for storing thoughts etc. that won't be rendered out, you can store them in a WIP property: `* WIP : loose thoughts here`
