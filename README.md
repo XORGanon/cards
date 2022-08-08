@@ -7,18 +7,9 @@ This is a simple stash for our "cards" records that the renderer at https://mbor
 <br/>
 
 ## Editing
-### Editing process
-To edit, add or expand new or existing "cards," simply [open the cards file for editing](https://github.com/XORGanon/cards/edit/main/cards) and do what you desire. After you're done, commit your changes using the button at the bottom of the page
+To edit, add or expand new or existing "cards," simply [open the cards file for editing](https://github.com/XORGanon/cards/edit/main/cards) and do what you desire. After you're done, commit your changes by using the button at the bottom of the page.
 <br />
 
-### Cutoff
-To bench some "cards" without having to delete them, I built in a cutoff mark, all "cards" following which will not be considered by the renderer. The mark is five hyphens: `-----`
-<br/>
-<br/>
-<br/>
-<br/>
-
-## "Card" entries
 ### Syntax conventions
 When editing the cards, mind a few but vital _syntax conventions_ to make sure the renderer keeps working:
 
@@ -31,7 +22,7 @@ When editing the cards, mind a few but vital _syntax conventions_ to make sure t
 <br/>
 <br/>
 
-### Title and properties
+### Current properties
 The rendered currently understands the following properties. Since their names are also triggers for their styling, print them exactly like this when you want to use them. We can at all times add, remove, rename or otherwise mess with these, though. 
 * Title
 * Type
@@ -51,13 +42,21 @@ To add images, do three things:
 * Add an image property line to the card that looks like this: `* Image : imagename.jpg`
 <br/>
 
+### Work in progress
+To have a place for storing thoughts etc. that won't be rendered out, you can store them in a WIP property: `* WIP : loose thoughts here`
+<br/>
+<br/>
+<br/>
+<br/>
+
+## Structure
 ### Line breaks
 To add line breaks, e.g. to make a list in a description, type a vertical bar `|` where you want the new line to begin.
 <br/>
 <br/>
 
-### Work in progress
-To have a place for storing thoughts etc. that won't be rendered out, you can store them in a WIP property: `* WIP : loose thoughts here`
+### Cutoff
+To bench some "cards" without having to delete them, I built in a cutoff mark, all "cards" following which will not be considered by the renderer. The mark is five hyphens: `-----`
 <br/>
 <br/>
 <br/>
