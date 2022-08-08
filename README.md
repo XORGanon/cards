@@ -6,7 +6,7 @@ This is a simple stash for our "cards" records that the renderer at https://mbor
 <br/>
 <br/>
 
-## Editing
+### Editing and syntax conventions
 To edit, add or expand new or existing "cards," simply [open the cards file for editing](https://github.com/XORGanon/cards/edit/main/cards), do what you desire, and commit your changes when you're done. While doing so, please mind these few but vital _syntax conventions_ to make sure the renderer keeps working. These will be updated as the renderer develops, but I'll take care of upgrading them along the way.
 
 * Prefix the title property with `#` + `space`
@@ -15,7 +15,7 @@ To edit, add or expand new or existing "cards," simply [open the cards file for 
 * Just for human readability, keep an empty line between each "card" and the next
 <br/>
 
-### Current properties
+### Current known properties
 The rendered currently understands the following properties. Since their names are also triggers for their styling, print them exactly like this when you want to use them. We can at all times add, remove, rename or otherwise mess with these, though. 
 ```
 # Title
