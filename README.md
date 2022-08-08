@@ -16,13 +16,7 @@ To edit, add or expand new or existing "cards," simply [open the cards file for 
 * Keep an empty line between each "card" and the next
 
 So far, the below properties are accounted for in the renderer. They should be written exactly like this, since the property name will be used to attribute styling:
-* `# Title`
-* `* Description`
-* `* Lore`
-* `* Suite`
-* `* Image`
-* `* Notes`
-* `* WIP`
+`# Title`, `* Description`, `* Lore`, `* Suite`, `* Image`, `* Notes`, `* WIP`
 
 ### Images
 To add images, do three things:
