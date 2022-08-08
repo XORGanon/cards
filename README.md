@@ -6,7 +6,10 @@ This is a simple stash for our "cards" records that the renderer at https://mbor
 <br/>
 <br/>
 
-## File structure
+## Editing
+### Editing process
+To edit, add or expand new or existing "cards," simply [open the cards file for editing](https://github.com/XORGanon/cards/edit/main/cards) and do what you desire. After you're done, commit your changes using the button at the bottom of the page
+<br />
 
 ### Cutoff
 To bench some "cards" without having to delete them, I built in a cutoff mark, all "cards" following which will not be considered by the renderer. The mark is five hyphens: `-----`
@@ -15,16 +18,17 @@ To bench some "cards" without having to delete them, I built in a cutoff mark, a
 <br/>
 <br/>
 
-## Editing
-### Title and properties
-To edit, add or expand new or existing "cards," simply [open the cards file for editing](https://github.com/XORGanon/cards/edit/main/cards), do what you desire, and commit your changes when you're done. While doing so, please mind these few but vital _syntax conventions_ to make sure the renderer keeps working:
+## "Card" entries
+### Syntax conventions
+When editing the cards, mind a few but vital _syntax conventions_ to make sure the renderer keeps working:
 
 * Prefix the title property with `#` + `space`
 * Prefix other property entries with `*` + `space`
 * Divide property names and values with `space` + `:` + `space`
 * Keep an empty line between each "card" and the next
 
-So far, the below properties are accounted for in the renderer. They should be written exactly like this, since the property name will be used to attribute styling:
+### Title and properties
+The rendered currently knows the following properties. Since their names are triggers for their styling, they should be written as printed here:
 * Core properties: `# Title`&ensp;`* Type`&ensp;`* Description`&ensp;`* Lore`&ensp;`* Suite`&ensp;`* Image`
 * Marginal properties: `* Notes`&ensp;`* WIP`
 <br/>
