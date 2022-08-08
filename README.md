@@ -42,8 +42,8 @@ To add images, do three things:
 * Add an image property line to the card that looks like this: `* Image : imagename.jpg`
 <br/>
 
-### Work in progress
-To have a place for storing thoughts etc. that won't be rendered out, you can store them in a WIP property: `* WIP : loose thoughts here`
+### WIP (work in progress)
+To have a place for storing thoughts etc. that should not be rendered, you can store them in a WIP property: `* WIP : loose thoughts here`
 <br/>
 <br/>
 <br/>
