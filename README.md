@@ -9,7 +9,7 @@ To edit, add or expand new or existing "cards," simply [open the cards file for 
 * Divide property names and values with `space` + `:` + `space`
 * Just for human readability, keep an empty line between each "card" and the next
 
-### Current known properties
+### Currently implemented properties
 The rendered currently processes the following properties. Since their names are also triggers for their styling, print them exactly like this when you use them. Naturally, we can at all times add, remove, rename or otherwise mess with these. 
 ```
 # Title
@@ -22,7 +22,7 @@ The rendered currently processes the following properties. Since their names are
 * WIP
 ```
 ### Line breaks
-To add line breaks, e.g. to make a list in a description, type a vertical bar `|` where you want the new line to begin.
+To add line breaks in a property text, e.g. to make a list in a description, type a vertical bar `|` where you want the new line to begin.
 
 ### Images
 To add images, do three things:
