@@ -10,7 +10,7 @@ To edit, add or expand new or existing "cards," simply [open the cards file for 
 * Just for human readability, keep an empty line between each "card" and the next
 
 ### Currently implemented properties
-The rendered currently processes the following properties. Since their names are also triggers for their styling, print them exactly like this when you use them. Naturally, we can at all times add, remove, rename or otherwise mess with these. 
+The rendered currently processes the following properties. Since their names are also triggers for their styling, print them exactly like this when you use them. Properties with names other than these will be rendered as plain text without specific styling. Naturally, we can at all times add, remove, rename or otherwise mess with these. 
 ```
 # Title
 * Type
