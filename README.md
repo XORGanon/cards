@@ -51,6 +51,6 @@ To bench some "cards" (i.e. remove them from the deck without having to delete t
 
 -----
 
-<!-- Nothing from here on will be rendered because it's beneath the cutoff mark -->
+<!-- From here on nothing will be processed because it's beneath the cutoff mark -->
 ```
 
