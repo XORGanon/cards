@@ -21,6 +21,9 @@ The rendered currently processes the following properties. Since their names are
 * Notes
 * WIP
 ```
+### Line breaks
+To add line breaks, e.g. to make a list in a description, type a vertical bar `|` where you want the new line to begin.
+
 ### Images
 To add images, do three things:
 
@@ -30,9 +33,6 @@ To add images, do three things:
 
 ### Notes, work in progress
 To add a note to a "card" which should show up in the render, use the `* Notes` property. To have a place for storing thoughts etc. that should not be rendered, you can store them in `* WIP` a property.
-
-### Line breaks
-To add line breaks, e.g. to make a list in a description, type a vertical bar `|` where you want the new line to begin.
 
 ### Cutoff
 To bench some "cards" (i.e. remove them from the deck without having to delete them), you can place them beneath the cutoff mark `-----` (five hyphens), all content following which will be dropped before processing. Bonus: This also means that below the cutoff mark, you can work freely without adhering to the syntax conventions.
