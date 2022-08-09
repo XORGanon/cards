@@ -28,7 +28,7 @@ To add images, do three things:
 * Upload the image to the [img](https://github.com/XORGanon/cards/tree/main/img) folder by simply dragging it onto there and then committing this change.
 * Add an image property line to the card that looks like this: `* Image : imagename.jpg`
 
-### Notes and work in progress)
+### Notes, work in progress
 To add a note to a "card" which should show up in the render, use the `* Notes` property. To have a place for storing thoughts etc. that should not be rendered, you can store them in `* WIP` a property.
 
 ### Line breaks
