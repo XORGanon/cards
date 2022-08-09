@@ -35,7 +35,7 @@ To add a note to a "card" which should show up in the render, use the `* Notes` 
 To add line breaks, e.g. to make a list in a description, type a vertical bar `|` where you want the new line to begin.
 
 ### Cutoff
-To bench some "cards" (i.e. remove them from the deck without having to delete them), I built in a cutoff mark, all "cards" following which will not be rendered. The mark is five hyphens: `-----`
+To bench some "cards" (i.e. remove them from the deck without having to delete them), I built in a cutoff mark `-----`, all "cards" following which will not be rendered.
 
 ### All in all, like so:
 ```html
