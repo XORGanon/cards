@@ -45,8 +45,8 @@ To bench some "cards" (i.e. remove them from the deck without having to delete t
 
 # Title : Sample card
 * Description : To play this card: |1. Do step one |2. Do step two |3. Do step three
-* Notes : [There's more meat on paper]
-* WIP : loose and confused thoughts here
+* Notes : [Notes to be displayed]
+* WIP : thought fragments here
 
 # Title : Semioverse miner
 * Lore : Some metaverse miners call their collectively constructed ...
