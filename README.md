@@ -51,6 +51,6 @@ To bench some "cards" (i.e. remove them from the deck without having to delete t
 
 -----
 
-# Title : Life-cycle <!-- This card will not be rendered because it's behind the cutoff mark -->
+<!-- Nothing from here on will be rendered because it's beneath the cutoff mark -->
 ```
 
